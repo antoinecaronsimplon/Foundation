@@ -1,0 +1,24 @@
+{
+  "name": "foundation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "foundation-cli": "^2.2.5",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bringerjo/foundation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bringerjo/foundation/issues"
+  },
+  "homepage": "https://github.com/bringerjo/foundation#readme",
+  "description": ""
+}
